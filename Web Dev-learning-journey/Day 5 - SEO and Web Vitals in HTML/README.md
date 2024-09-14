@@ -2,9 +2,9 @@
 
 ---
 
-# 📌 **Project Name**: **HTML SEO & Web Vitals**
+### 📌 **Project Name**: **HTML SEO & Web Vitals**
 
-# 📅 **Day**: 5  
+### 📅 **Day**: 5  
 # 🏷 **Description**:  
 In this session, I explored the significance of **Search Engine Optimization (SEO)** and **Web Vitals** to enhance website visibility on search engines and improve user experience. Here's a summary of what was covered:
 
