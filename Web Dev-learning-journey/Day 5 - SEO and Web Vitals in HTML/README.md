@@ -2,15 +2,15 @@
 
 ---
 
-### 📌 **Project Name**: **HTML SEO & Web Vitals**
+## 📌 **Project Name**: **HTML SEO & Web Vitals**
 
-### 📅 **Day**: 5  
+## 📅 **Day**: 5  
 # 🏷 **Description**:  
 In this session, I explored the significance of **Search Engine Optimization (SEO)** and **Web Vitals** to enhance website visibility on search engines and improve user experience. Here's a summary of what was covered:
 
 ---
 
-# 🚀 **Topics Covered**:
+## 🚀 **Topics Covered**:
 
 1. **SEO Meta Tags**:
    - Added important meta tags like **description**, **keywords**, and **author** to improve search engine rankings.
@@ -27,7 +27,7 @@ In this session, I explored the significance of **Search Engine Optimization (SE
 
 ---
 
-# 💡 **Code Snippet Example**:
+## 💡 **Code Snippet Example**:
 ```html
 <head>
     <meta charset="UTF-8">
@@ -46,24 +46,24 @@ In this session, I explored the significance of **Search Engine Optimization (SE
 
 ---
 
-# 🛠 **Technologies Used**:
+## 🛠 **Technologies Used**:
 - **HTML**: For creating the structure of the webpage and implementing SEO features.
 - **SEO Tools**: Applied SEO techniques using **meta tags** for better search engine ranking.
 - **Web Vitals**: Incorporated **Core Web Vitals** to improve user experience and performance.
 
 ---
 
-# 📖 **Resources**:
+## 📖 **Resources**:
 - **Google SEO Starter Guide**: [Read Here](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 - **Core Web Vitals**: [Learn More](https://web.dev/vitals/)
 
 ---
 
-# 📝 **Next Steps**:
+## 📝 **Next Steps**:
 - Explore more on **HTML Forms** and **Interactive Elements** to enhance webpage interactivity.
 
 ---
 
-# 🔗 **Connect with Me**:
+## 🔗 **Connect with Me**:
 - **LinkedIn**: [Santhosh VS](https://www.linkedin.com/in/thesanthoshvs/)
 - **GitHub**: [Itssanthoshhere](https://github.com/Itssanthoshhere)
