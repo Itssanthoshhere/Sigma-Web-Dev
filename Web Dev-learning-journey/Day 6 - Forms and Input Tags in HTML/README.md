@@ -60,8 +60,7 @@ Day 6 focused on understanding **HTML Forms** and the different types of **input
 In the next session, I will dive deeper into **form validation** and explore how to ensure that form data is valid before submission.
 
 ## 🔗 Resources
-- **GitHub Repository**: [Day 6 - HTML Forms and Inputs](https://github.com/Itssanthoshhere/Sigma-Web-Dev/tree/main/Web%20Dev-learning-journey/Day%206%20-%20Forms)
-- **CodeWithHarry HTML Playlist**
+- **CodeWithHarry Sigma Web Development Course Playlist**
 
 ## 🏷️ Tags
 HTML Forms, Input Tags, Web Development, Web Design, Learning Journey, CodeWithHarry
